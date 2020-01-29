@@ -24,7 +24,7 @@ Documentation
 Product Versions
 ----------------
 
-* [DEV-16138](https://www.sparkfun.com/products/16138)- An Arduino shield to connect the I<sup>2</sup>C bus on an Arduino Nano (or compatible board) to Qwiic connectors. 
+* [DEV-16138](https://www.sparkfun.com/products/16138)- An Arduino shield to connect the I<sup>2</sup>C bus on a Thing Plus (or compatible board) to Qwiic connectors. 
 
 License Information
 -------------------
