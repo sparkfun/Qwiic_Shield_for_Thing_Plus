@@ -5,7 +5,7 @@ SparkFun Qwiic Shield for Thing Plus
 
 [*SparkFun Qwiic Shield for Thing Plus (DEV-16138)*](https://www.sparkfun.com/products/16138)
 
-This is a shield that connects the I<sup>2</sup>C bus on a development board using the Thing Plus footprint to Qwiic connectors.
+This is a shield that connects the I<sup>2</sup>C bus on a development board using the Thing Plus footprint to four Qwiic connectors.
 
 Repository Contents
 -------------------
