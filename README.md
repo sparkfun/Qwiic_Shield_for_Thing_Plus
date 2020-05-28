@@ -1,9 +1,9 @@
 SparkFun Qwiic Shield for Thing Plus
 ========================================
 
-![SparkFun Qwiic Shield for Thing Plus](https://cdn.sparkfun.com/assets/parts/1/4/7/9/8/16138-SparkFun_Qwiic_Shield_for_Thing_Plus-01.jpg)
+![SparkFun Qwiic Shield for Thing Plus](https://cdn.sparkfun.com/assets/parts/1/5/6/9/7/16790-SparkFun_Qwiic_Shield_for_Thing_Plus-05.jpg)
 
-[*SparkFun Qwiic Shield for Thing Plus (DEV-16138)*](https://www.sparkfun.com/products/16138)
+[*SparkFun Qwiic Shield for Thing Plus (DEV-16790)*](https://www.sparkfun.com/products/16790)
 
 This is a shield that connects the I<sup>2</sup>C bus on a development board using the Thing Plus footprint to four Qwiic connectors.
 
@@ -24,6 +24,7 @@ Documentation
 Product Versions
 ----------------
 
+* [DEV-16790](https://www.sparkfun.com/products/16790) - Updated version now includes a set of Stackable Headers.
 * [DEV-16138](https://www.sparkfun.com/products/16138)- An Arduino shield to connect the I<sup>2</sup>C bus on a Thing Plus (or compatible board) to Qwiic connectors. 
 
 License Information
